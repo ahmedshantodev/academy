@@ -21,7 +21,7 @@ const page = () => {
       <section className="pt-20 pb-10 sm:pt-[120px] relative z-20 container px-4 sm:px-0">
         <div className="text-center">
           <h1 className="mt-2 md:mt-3 text-2xl md:text-3xl lg:text-4xl xl:text-5xl leading-8 font-bold tracking-tight text-white">
-            All Courses
+            All Course
           </h1>
         </div>
 
