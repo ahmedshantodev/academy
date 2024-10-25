@@ -1,0 +1,20 @@
+{
+  "why_choose_us": [
+    {
+      "title": "Expert Instructors",
+      "description": "Highlight the qualifications and experience of your instructors. Emphasize their real-world expertise and ability to teach effectively. Include testimonials or case studies from satisfied students."
+    },
+    {
+      "title": "Comprehensive Curriculum",
+      "description": "Detail the depth and breadth of your course material. Explain how your curriculum is designed to meet specific learning objectives. Showcase the practical applications of the skills taught."
+    },
+    {
+      "title": "Flexible Learning Options",
+      "description": "Highlight the different learning formats you offer (e.g., live classes, self-paced courses, workshops). Emphasize the convenience and flexibility these options provide to students. Mention any unique features like one-on-one mentoring or project support."
+    },
+    {
+      "title": "Proven Results",
+      "description": "Share success stories of students who have benefited from your courses. Quantify the results achieved by students, such as job advancements, increased income, or personal growth. Highlight any certifications or accreditations associated with your courses."
+    }
+  ]
+}

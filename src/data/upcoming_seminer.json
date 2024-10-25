@@ -1,0 +1,40 @@
+{
+  "seminers": [
+    {
+      "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg",
+      "title": "User Experience (UX) Design for Mobile Apps",
+      "description": "Explore best practices for designing intuitive and engaging mobile app interfaces. Discuss the importance of responsive design, accessibility, and user testing.",
+      "link": "https://stripe.com"
+    },
+    {
+      "image": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg",
+      "title": "Modern Web Development with React and Node.js",
+      "description": "Learn about the benefits of using React for building dynamic web applications. Understand how Node.js can be used to create scalable and efficient backends.",
+      "link": "https://netflix.com"
+    },
+    {
+      "image": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg",
+      "title": "Graphic Design Trends for 2023",
+      "description": "Explore the latest trends in typography, color palettes, and illustration styles. Discuss how these trends can be applied to web design and branding.",
+      "link": "https://google.com"
+    },
+    {
+      "image": "https://img.freepik.com/premium-photo/seo-analysis-vector-concept_1029476-32191.jpg",
+      "title": "SEO Strategies for E-commerce Websites",
+      "description": "Learn how to optimize e-commerce websites for search engines to improve organic traffic. Discuss techniques like keyword research, on-page optimization, and link building.",
+      "link": "https://meta.com"
+    },
+    {
+      "image": "https://view.subpage.app/app/company/C532b8873cc5442e2b1f2265b77a7d7dc/domain/MTiT0jFlGh/page/Ma9aQb2DGh/article/Mf8af4eaca3f9b166f045b71fe61100671698987694871/hero/M3a7968025eb1d23e85d85e2d960449b91699239359648.webp",
+      "title": "UI Design Principles for Accessibility",
+      "description": "Understand the importance of creating accessible UI designs for users with disabilities. Explore guidelines and best practices for designing inclusive interfaces.",
+      "link": "https://amazon.com"
+    },
+    {
+      "image": "https://riseuplabs.com/wp-content/uploads/2021/07/mobile-application-development-guidelines-riseuplabs.jpg",
+      "title": "Building Progressive Web Apps (PWAs)",
+      "description": "Learn about the benefits of PWAs and how to create them. Discuss features like offline functionality, push notifications, and installability.",
+      "link": "https://microsoft.com"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web development",
+      "slug": "web-development",
+      "description": "Craft cutting-edge mobile apps and revolutionize the digital landscape with our comprehensive app development course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg"
+    },
+    {
+      "id": 2,
+      "title": "App development",
+      "slug": "app-development",
+      "description": "Craft cutting-edge mobile apps and revolutionize the digital landscape with our comprehensive app development course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://riseuplabs.com/wp-content/uploads/2021/07/mobile-application-development-guidelines-riseuplabs.jpg"
+    },
+    {
+      "id": 2,
+      "title": "UI/UX Design",
+      "slug": "ui/ux-design",
+      "description": "Become a skilled UI/UX designer and create visually stunning and user-friendly interfaces with our comprehensive course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Graphic Design",
+      "slug": "graphic-design",
+      "description": "Craft cutting-edge mobile apps and revolutionize the digital landscape with our comprehensive app development course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://img.freepik.com/free-vector/cartoon-graphic-design-landing-page_52683-70881.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Web development",
+      "slug": "web-development",
+      "description": "Craft cutting-edge mobile apps and revolutionize the digital landscape with our comprehensive app development course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://www.creativeitinstitute.com/images/course/course_1663052056.jpg"
+    },
+    {
+      "id": 2,
+      "title": "SEO Marketing",
+      "slug": "seo-marketing",
+      "description": "Become a skilled SEO marketer and create visually stunning and user-friendly interfaces with our comprehensive course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "https://img.freepik.com/premium-photo/seo-analysis-vector-concept_1029476-32191.jpg"
+    }
+  ]
+}
